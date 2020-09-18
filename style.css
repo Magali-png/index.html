@@ -127,39 +127,39 @@ a:hover {
     "advertising business about hsw  .  terms settings consumers";
 }
 
-#about {
-    grid-area: about
+#ap {
+    grid-area: A propos
     justify-self: center;
     align-self: center;
 }
 
-#advertising {
-    grid-area: advertising;
+#Publicité {
+    grid-area: Publicité;
     justify-self: center;
     align-self: center;
 }
-#business {
-    grid-area: business;
+#Entreprise {
+    grid-area: entreprise;
     justify-self: center;
     align-self: center;
 }
-#hsw {
-    grid-area: how search works;
+#cfrg {
+    grid-area: Comment fonctionne la recherche Google ? ;
     justify-self: center;
     align-self: center;
 }
-#consumers {
-    grid-area: Consumers Info;
+#Info {
+    grid-area: Info consommateurs;
     justify-self: center;
     align-self: center;
 }
-#terms {
-    grid-area: terms;
+#Conditions {
+    grid-area: Conditions;
     justify-self: center;
     align-self: center;
 }
-#settings {
-    grid-area: settings;
+#paramètres {
+    grid-area: paramètres;
     justify-self: center;
     align-self: center;
 }
